@@ -1,0 +1,36 @@
+
+---
+
+### **.gitignore**
+```plaintext
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environment
+env/
+venv/
+ENV/
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# CSV/Excel data files
+*.csv
+*.xls
+*.xlsx
+
+# Logs and database
+*.log
+*.db
+*.sqlite3
+
+# OS-specific files
+.DS_Store
+Thumbs.db
